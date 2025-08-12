@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
 ### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
@@ -38,9 +37,12 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/eclipse--v1.png" alt="Eclipse" />
-  <img src="https://img.icons8.com/color/48/000000/servlet.png" alt="Servlets" />
-  <img src="https://img.icons8.com/color/48/000000/tkinter.png" alt="Tkinter" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/dsa.png" alt="DSA" style="width:48px; height:48px;" /> <!-- DSA icon placeholder -->
+  <span style="font-size:48px; font-weight:bold; margin:0 10px;">🌀</span> <!-- Servlet placeholder -->
+  <span style="font-size:48px; font-weight:bold; margin:0 10px;">🎨 Tkinter</span>
 </p>
+
 
 
 ---
