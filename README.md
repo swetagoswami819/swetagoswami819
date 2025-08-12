@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://github.com/swetagoswami819/swetagoswami819/snake.yml" alt="Snake animation" />
+<img src="https://github.com/swetagoswami819/swetagoswami819/blob/output/snake.svg" alt="Snake animation" />
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="50px"> Featured In</h3>
 <tr>
