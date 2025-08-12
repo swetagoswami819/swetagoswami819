@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 </tr>
 
 ### 🌟 Highlights:
-- 🔭 I’m currently working on **A Website Development**
-- 🌱 I’m currently learning **Web Development , Web 3 and Devops**
-- 💬 Ask me about **Tech, Development, or AI!**
-- 📫 How to reach me: **karakotigaurav12@gmail.com**
-- ⚡ Fun fact: **"I turn coffee into code ☕"**
+🔭 I’m currently working on Java Full Stack Projects and improving my skills in Web Development
+🌱 I’m currently learning Advanced Servlets, React, and exploring AI & Machine Learning concepts
+💬 Ask me about Java, Python, DSA, Web Technologies, and Project Development
+📫 How to reach me: sg8528224@gmail.com
+⚡ Fun fact: "I love turning complex problems into simple code solutions!"
 
 ---
 
