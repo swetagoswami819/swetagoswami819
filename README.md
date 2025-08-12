@@ -34,13 +34,14 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/eclipse--v1.png" alt="Eclipse" />
   <img src="https://img.icons8.com/color/48/000000/servlet.png" alt="Servlets" />
   <img src="https://img.icons8.com/color/48/000000/tkinter.png" alt="Tkinter" />
 </p>
+
 
 ---
 
