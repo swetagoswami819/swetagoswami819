@@ -1,0 +1,11 @@
+<svg width="150" height="150" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="50" r="10" fill="#6e40c9">
+    <animate attributeName="cx" values="20;80;20" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="40" cy="50" r="10" fill="#a177f7">
+    <animate attributeName="cx" values="40;100;40" dur="3s" begin="0.3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="60" cy="50" r="10" fill="#cbb5ff">
+    <animate attributeName="cx" values="60;120;60" dur="3s" begin="0.6s" repeatCount="indefinite" />
+  </circle>
+</svg>
