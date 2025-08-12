@@ -53,6 +53,31 @@ Here are some ideas to get you started:
 
 ---
 
+###
+
+<br clear="both">
+
+<img src="https://github.com/GauravKarakoti/GauravKarakoti/blob/output/snake.svg" alt="Snake animation" />
+
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="50px"> Featured In</h3>
+<tr>
+<td align="center">
+<a href="https://s2apertre.resourcio.in"><img src="https://s2apertre.resourcio.in/Logo_primary.svg" height="140px" width="180px" alt="Apertre 2025"></a><br>
+</td>
+<td align="centre">
+<a href="https://gssoc.girlscript.tech/"><img src="https://miro.medium.com/v2/resize:fit:560/0*loJWZJrLBa-0R_gH" width="180px" alt="GSSoC 2025"></a><br>
+</td>
+</tr>
+
+### 🌟 Highlights:
+- 🔭 I’m currently working on **A Website Development**
+- 🌱 I’m currently learning **Web Development , Web 3 and Devops**
+- 💬 Ask me about **Tech, Development, or AI!**
+- 📫 How to reach me: **karakotigaurav12@gmail.com**
+- ⚡ Fun fact: **"I turn coffee into code ☕"**
+
+---
+
 ### 💻 Projects:
 - **Face Recognition Attendance System**  
   Built with Python, Tkinter & SQL to automate attendance using face recognition.
