@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swetagoswami819&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ###
 
 <br clear="both">
